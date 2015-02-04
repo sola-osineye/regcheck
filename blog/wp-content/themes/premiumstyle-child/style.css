@@ -1,0 +1,30 @@
+/*
+Theme Name: Premium Style Child
+Theme URI: http://www.gopiplus.com/work/2013/11/11/premium-style-wordpress-theme/
+Author: Gopi Ramasamy
+Author URI: http://www.gopiplus.com
+Description: Premium Style Child Theme
+Template: premium-style
+Version: 1.8
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, gray, white, one-column, right-sidebar, custom-background, fluid-layout, custom-menu, full-width-template, theme-options, custom-colors, featured-images, sticky-post, theme-options, post-formats
+Text Domain: premium-style-child
+*/
+
+.site-header {
+vertical-align: baseline;
+margin: 0;
+}
+.header-image {
+text-align: left;
+height: auto;
+vertical-align: baseline;
+}
+
+.hgroup {
+display: none;
+float: none;
+padding: 0 0 0 5px;
+}
+

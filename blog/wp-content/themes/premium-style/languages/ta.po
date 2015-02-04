@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Premium Style WordPress Theme\n"
+"POT-Creation-Date: 2013-12-07 12:57+0800\n"
+"PO-Revision-Date: 2013-12-07 12:57+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../404.php:16 ../breadcrumbs.php:18
+msgid "Home"
+msgstr "முகப்பு"
+
+#: ../404.php:18
+msgid "404 Not found"
+msgstr "404 கண்டுபிடிக்கப்பட்டது"
+
+#: ../404.php:23
+msgid "404! We couldn't find the page!"
+msgstr "404! நாங்கள் பக்கம் கண்டுபிடிக்க முடியவில்லை!"
+
+#: ../404.php:27
+msgid ""
+"The page you've requested <strong>can not be displayed</strong>. We are "
+"working hard to fix all the missing resources."
+msgstr "நீங்கள் கோரிய பக்கம் இல்லை."
+
+#: ../404.php:36 ../functions.php:172
+msgid "Recent Posts"
+msgstr "அண்மைய பதிவுகள்"
+
+#: ../archive.php:25 ../home.php:27 ../index.php:38 ../search.php:25
+msgid " &laquo;&laquo; Newer Entries "
+msgstr " &laquo;&laquo; புதிய பதிவுகள்"
+
+#: ../archive.php:28 ../home.php:30 ../index.php:41 ../search.php:28
+msgid " Older Entries &raquo;&raquo; "
+msgstr "பழைய பதிவுகள் &raquo;&raquo; "
+
+#: ../breadcrumbs.php:22
+msgid "Posts Tagged &quot;"
+msgstr "குறித்துள்ளார் &quot;"
+
+#: ../breadcrumbs.php:25 ../breadcrumbs.php:28 ../breadcrumbs.php:31
+msgid "Posts made in"
+msgstr ""
+
+#: ../breadcrumbs.php:34
+msgid "Search results for"
+msgstr "தேடல் முடிவுகள்"
+
+#: ../breadcrumbs.php:49
+msgid "Posts by "
+msgstr ""
+
+#: ../comments.php:23
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "பார்வையிட கடவுச்சொல்லை உள்ளிடவும்."
+
+#: ../comments.php:32
+msgid "No Responses"
+msgstr "பதில் இல்லை"
+
+#: ../comments.php:32
+msgid "One Response"
+msgstr "ஒரு பதில்"
+
+#: ../comments.php:32
+msgid "% Responses"
+msgstr "% பதில்கள்"
+
+#: ../comments.php:33
+msgid "to"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Pingbacks/Trackbacks"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr "கருத்துரைகள் மூடப்பட்டது."
+
+#: ../comments.php:66
+msgid "You must be"
+msgstr ""
+
+#: ../comments.php:68
+msgid "logged in"
+msgstr "உள்நுழைவு"
+
+#: ../comments.php:70
+msgid "to post a comment."
+msgstr "கருத்துரை அனுப்பு"
+
+#: ../comments.php:76
+msgid "Name"
+msgstr "பெயர்"
+
+#: ../comments.php:78
+msgid "E-Mail"
+msgstr "மின்னஞ்சல்"
+
+#: ../comments.php:80
+msgid "Website"
+msgstr "இணையத்தளம்"
+
+#: ../content.php:16
+#, php-format
+msgid "Permalink to %s"
+msgstr "இணைப்பு to %s"
+
+#: ../footer.php:29
+msgid "Proudly powered by"
+msgstr ""
+
+#: ../footer.php:30
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../footer.php:31 ../footer.php:35
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../footer.php:33
+msgid "&nbsp;&nbsp;Premium Style Theme by"
+msgstr ""
+
+#: ../footer.php:34
+msgid "http://www.gopiplus.com/"
+msgstr ""
+
+#: ../functions.php:38
+msgid "Navigation Menu"
+msgstr "மேல் மெனு"
+
+#: ../functions.php:107
+#, php-format
+msgid "Page %s"
+msgstr "பக்கம் %s"
+
+#: ../functions.php:157
+msgid "Related Posts"
+msgstr "தொடர்புடைய பதிவுகள்"
+
+#: ../functions.php:219
+msgid "<span class=\"meta-nav\">&laquo;&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&laquo;&laquo;</span> பழைய பதிவுகள்"
+
+#: ../functions.php:222
+msgid "Newer posts <span class=\"meta-nav\">&raquo;&raquo;</span>"
+msgstr "புதிய பதிவுகள் <span class=\"meta-nav\">&raquo;&raquo;</span>"
+
+#: ../functions.php:236 ../functions.php:238
+msgid "Sidebar"
+msgstr "பக்கப்பட்டி"
+
+#: ../functions.php:287
+msgid "at"
+msgstr ""
+
+#: ../functions.php:291
+msgid "Direct link to this comment"
+msgstr "நேரடி இணைப்பு"
+
+#: ../functions.php:293 ../image.php:35
+msgid "Edit"
+msgstr "திருத்த"
+
+#: ../functions.php:299
+msgid "Your comment is awaiting moderation."
+msgstr "உங்கள் கருத்து காத்திருக்கிறது."
+
+#: ../functions.php:422 ../functions.php:428
+msgid "Logo"
+msgstr "லோகோ"
+
+#: ../functions.php:435
+msgid "Social Icons"
+msgstr "சமூக சின்னங்கள்"
+
+#: ../functions.php:487
+msgid "Display Box Setting"
+msgstr "காட்சி பெட்டி அமைத்தல்"
+
+#: ../functions.php:510
+msgid "Footer Text"
+msgstr "அடிக்குறிப்பு உரை"
+
+#: ../functions.php:550
+msgid "Premium Style WordPress Theme"
+msgstr ""
+
+#: ../functions.php:552
+msgid "Thank You for Selecting Premium Style Theme From"
+msgstr ""
+
+#: ../functions.php:554
+msgid "gopiplus.com"
+msgstr ""
+
+#: ../functions.php:555
+msgid "Theme configuration"
+msgstr ""
+
+#: ../functions.php:556
+msgid "Please click customize link to configure your theme."
+msgstr ""
+
+#: ../functions.php:557
+msgid "Features of this theme"
+msgstr ""
+
+#: ../functions.php:559
+msgid "Free theme"
+msgstr ""
+
+#: ../functions.php:560
+msgid "Highly customizable"
+msgstr ""
+
+#: ../functions.php:561
+msgid "100% Responsive"
+msgstr "% பதில்கள்"
+
+#: ../functions.php:562
+msgid "Valid XHTML5 + CSS"
+msgstr ""
+
+#: ../functions.php:563
+msgid "Firefox, IE8+, Chrome and Safari compatible"
+msgstr ""
+
+#: ../functions.php:564
+msgid "WP 3.6+ compatible and Tested up tp 3.8"
+msgstr ""
+
+#: ../functions.php:565
+msgid "Blog style structure"
+msgstr ""
+
+#: ../functions.php:566
+msgid "Social Icon settings"
+msgstr "சமூக சின்னங்கள்"
+
+#: ../functions.php:567
+msgid "Option to enable/disable Author Info Box"
+msgstr ""
+
+#: ../functions.php:568
+msgid "Breadcrumbs links"
+msgstr ""
+
+#: ../functions.php:569
+msgid "Free 24x5 email support"
+msgstr ""
+
+#: ../functions.php:571
+msgid "Frequently asked questions"
+msgstr ""
+
+#: ../functions.php:573
+msgid "How do I install the theme onto my wordpress blog?"
+msgstr ""
+
+#: ../functions.php:574
+msgid "How to setup Featured image for post?"
+msgstr ""
+
+#: ../functions.php:575
+msgid "How to Disable and Enable home page slider?"
+msgstr ""
+
+#: ../functions.php:576
+msgid "How to configure Social Icon in the theme?"
+msgstr ""
+
+#: ../functions.php:577
+msgid "How to add favicon?"
+msgstr ""
+
+#: ../functions.php:578
+msgid ""
+"How to Enable and Disable AuthorInfo/Related Box in the single view post?"
+msgstr ""
+
+#: ../functions.php:581
+msgid "Theme documentation"
+msgstr ""
+
+#: ../header.php:39
+msgid "Menu"
+msgstr "மெனு"
+
+#: ../header.php:40
+msgid "Skip to content"
+msgstr "உள்ளடக்கத்திற்கு செல்க"
+
+#: ../home.php:38 ../index.php:49
+msgid "Nothing Found"
+msgstr "எதுவும் கிடைக்கவில்லை"
+
+#: ../home.php:41 ../index.php:52
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr "முடிவுகள் எதுவும் இல்லை."
+
+#: ../image.php:24
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"வெளியிடப்பட்ட <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+
+#: ../image.php:42
+msgid " &laquo;&laquo; Previous Image"
+msgstr " &laquo;&laquo; முந்தைய படம்"
+
+#: ../image.php:45
+msgid "Next Image &raquo;&raquo; "
+msgstr "அடுத்த படம் &raquo;&raquo; "
+
+#: ../image.php:93 ../page.php:23 ../single.php:51
+#: ../template-fullwidth.php:38
+msgid "Pages:"
+msgstr "பக்கங்கள்:"
+
+#: ../searchform.php:14
+msgid "Search this site..."
+msgstr "இந்த தளத்தில் தேட..."
+
+#: ../single.php:24 ../template-fullwidth.php:18
+msgid "by "
+msgstr ""
+
+#: ../single.php:27 ../template-fullwidth.php:21
+msgid "posted:"
+msgstr ""
+
+#: ../single.php:36 ../template-fullwidth.php:30
+msgid "0 Comment"
+msgstr "0 கருத்து"
+
+#: ../single.php:36 ../template-fullwidth.php:30
+msgid "1 Comment"
+msgstr "1 கருத்து"
+
+#: ../single.php:36 ../template-fullwidth.php:30
+msgid "% Comments"
+msgstr "% கருத்துகள்"
+
+#: ../single.php:72 ../template-fullwidth.php:58
+msgid "View all posts by "
+msgstr "எல்லா"
+
+#~ msgid "Home Slider Setting"
+#~ msgstr "முகப்பு ஸ்லைடர் அமைக்கிறது"
+
+#~ msgid "No comments yet."
+#~ msgstr "கருத்துரைகள் இதுவரை இல்லை"

@@ -1,0 +1,67 @@
+Theme Name	: Premium Style
+Theme URI	: http://www.gopiplus.com/work/2013/11/11/premium-style-wordpress-theme/
+Author		: Gopi Ramasamy
+Author URI	: http://www.gopiplus.com
+Live Demo	: http://www.gopiplus.com/work/2013/11/11/premium-style-wordpress-theme/
+Copyright   : Copyright (c) 2013 - 2014 www.gopiplus.com
+
+GNU General Public License v2 or later
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+License URI	: http://www.gnu.org/licenses/gpl-2.0.html
+ 
+== html5.js == 
+
+* HTML5 Shiv v3.6 | @afarkas @jdalton @jon_neal @rem | 
+* MIT/GPL2 Licensed
+* Source: https://github.com/aFarkas/html5shiv
+
+== navigation.js == 
+
+Source	: Twenty Twelve WordPress theme
+License	: GNU General Public License v2 or later
+Author	: the WordPress team
+Author URI: http://wordpress.org/
+
+== ie.css == 
+
+Source	: Twenty Twelve WordPress theme
+License	: GNU General Public License v2 or later
+Author	: the WordPress team
+Author URI: http://wordpress.org/
+
+== favicon.ico == 
+
+Thanks to www.favicon.cc
+Icon has been generated using www.favicon.cc
+
+== Social Icons == 
+
+Thanks to gopiplus designer for social icons.
+License	: GNU General Public License v2 or later
+New social icons added in theme.
+
+== Credits and Thanks == 
+
+WordPress Codex : http://codex.wordpress.org
+Twenty Twelve WordPress theme : http://wordpress.org/themes/twentytwelve
+Theme Testing
+	http://codex.wordpress.org/Theme_Unit_Test
+	Monster Widget plugin (http://wordpress.org/extend/plugins/monster-widget/)
+	Theme Check plugin (http://www.pross.org.uk/plugins)
+	Theme Mentor plugin (http://devwp.eu/)
+	Debogger Options plugin (http://www.pross.org.uk/plugins/)
+	Special Thanks to ZGani for theme review

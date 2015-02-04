@@ -1,0 +1,70 @@
+/**
+ * changelog.txt
+ *
+ * @package     Premium Style
+ * @since       1.0
+ *
+ * @link        http://www.gopiplus.com
+ * @link        http://www.gopiplus.com/work/2013/11/11/premium-style-wordpress-theme/
+ *
+ * @author      Gopi Ramasamy
+ * @copyright   Copyright (c) 2013 - 2014 www.gopiplus.com
+ *
+ */
+ 
+********************************Version 1.0************************************************************
+
+* First version.
+
+Premium Style is a free professional WordPress theme from gopiplus.com. Its 100% Responsive, 
+Highly customizable theme. This can be suitable for blog style website. It contain great features 
+like Custom Logo, Home Slider, Breadcrumbs, Social Icons, Google Analytic Box and Author Info Box. 
+Also has custom background, header, menu, favicon. and this theme built with the latest w3C standards 
+(HTML5 and CSS3) and It support theme options customizer.
+ 
+********************************Version 1.1************************************************************
+
+1. Updated screenshot.png file in theme folder.
+
+********************************Version 1.2************************************************************
+
+Updated the theme as per reviewer advice.
+Empty language folder has been removed from the theme
+Since only one file in the template folder, thus file moved to root directory.
+
+********************************Version 1.3************************************************************
+
+Fixed video overflows issue
+Changed "Comments are closed." position in comments.php file
+Front End Credits links has been updated 
+
+********************************Version 1.4************************************************************
+
+Updated wp_reset_postdata() instead of wp_reset_query() in the method premiumstyle_related_posts() 
+Added method premiumstyle_header_style() for site title color setting.
+
+********************************Version 1.5************************************************************
+
+Text domain added for internationalization. 
+Sticky scroll completely removed from the theme. 
+Added some security in theme customizer.
+
+********************************Version 1.6************************************************************
+
+Removed wp_reset_query() from the index.php and home.php file
+Variable prefix has been declared as per advise.
+
+********************************Version 1.7************************************************************
+
+Menu moved below header (In previous version it was above header)
+Slight change in the CSS coloring.
+Tested up to WordPress 3.8.1
+Year 2014 has been added in the header copyright text.
+Added language file for ta_LK, en_EN
+
+********************************Version 1.8************************************************************
+
+Tested up to WordPress 3.9.1
+New social icons
+Social icons are loading using sprite option. (sprite is a collection of images put into a single image)
+header.php file modified.
